@@ -7,168 +7,168 @@
   -->
   <Item>
     <BlueprintID>Rod</BlueprintID>
-    <Name>rod</Name>
+    <Name>Stange</Name>
     <Difficulty>1</Difficulty>
   </Item>
   <Item>
     <BlueprintID>Axle</BlueprintID>
-    <Name>axle</Name>
+    <Name>Achse</Name>
     <Difficulty>1</Difficulty>
   </Item>
   <Item>
     <BlueprintID>Gear</BlueprintID>
-    <Name>gear</Name>
+    <Name>Getriebe</Name>
     <Difficulty>1</Difficulty>
   </Item>
   <Item>
     <BlueprintID>Spring</BlueprintID>
-    <Name>spring</Name>
+    <Name>Feder</Name>
     <Difficulty>1</Difficulty>
   </Item>
   <Item>
     <BlueprintID>MechanismBase</BlueprintID>
-    <Name>mechanism base</Name>
+    <Name>Mechanismus Basis</Name>
     <Difficulty>1</Difficulty>
   </Item>
   <Item>
     <BlueprintID>Gearbox</BlueprintID>
-    <Name>gear box</Name>
+    <Name>Getriebegehaeuse</Name>
     <Difficulty>1</Difficulty>
   </Item>
     
   <Item>
     <BlueprintID>Handcrank</BlueprintID>
-    <Name>handcrank</Name>
+    <Name>Handkurbel</Name>
     <Difficulty>2</Difficulty>
   </Item>
     
   <Item>
     <BlueprintID>TrapBase</BlueprintID>
-    <Name>trap base</Name>
+    <Name>Fallen Basis</Name>
     <Difficulty>3</Difficulty>
   </Item>
   <Item>
     <BlueprintID>SpikeTrap</BlueprintID>
-    <Name>spike trap</Name>
+    <Name>Dornen Falle</Name>
     <Difficulty>3</Difficulty>
   </Item>
   <Item>
     <BlueprintID>BladeTrap</BlueprintID>
-    <Name>blade trap</Name>
+    <Name>Klingen Falle</Name>
     <Difficulty>3</Difficulty>
   </Item>
   <Item>
     <BlueprintID>Crossbow</BlueprintID>
-    <Name>crossbow</Name>
+    <Name>Armbrust</Name>
     <Difficulty>3</Difficulty>
   </Item>
   <Item>
     <BlueprintID>CrossbowBolt</BlueprintID>
-    <Name>bolt</Name>
+    <Name>Bolzen</Name>
     <Difficulty>3</Difficulty>
   </Item>
   <Item>
     <BlueprintID>Quiver</BlueprintID>
-    <Name>quiver</Name>
+    <Name>Koecher</Name>
     <Difficulty>3</Difficulty>
   </Item>
     
   <Item>
     <BlueprintID>Lever</BlueprintID>
-    <Name>lever</Name>
+    <Name>Hebel</Name>
     <Difficulty>4</Difficulty>
   </Item>
     
   <Item>
     <BlueprintID>MechanicalWall</BlueprintID>
-    <Name>mechanical wall</Name>
+    <Name>Mechanische Wand</Name>
     <Difficulty>5</Difficulty>
   </Item>
     
   <Item>
     <BlueprintID>WindmillBlade</BlueprintID>
-    <Name>windmill blade</Name>
+    <Name>Windradfluegel</Name>
     <Difficulty>6</Difficulty>
   </Item>
   <Item>
     <BlueprintID>Windmill</BlueprintID>
-    <Name>windmill</Name>
+    <Name>Windmuehle</Name>
     <Difficulty>6</Difficulty>
   </Item>
     
   <Item>
     <BlueprintID>PressurePlate</BlueprintID>
-    <Name>pressure plate</Name>
+    <Name>Druckplatte</Name>
     <Difficulty>7</Difficulty>
   </Item>
     
   <Item>
     <BlueprintID>Hatch</BlueprintID>
-    <Name>hatch</Name>
+    <Name>Luke</Name>
     <Difficulty>8</Difficulty>
   </Item>
   <Item>
     <BlueprintID>Blunderbuss</BlueprintID>
-    <Name>blunderbuss</Name>
+    <Name>Donnerbuechse</Name>
     <Difficulty>8</Difficulty>
   </Item>
   <Item>
     <BlueprintID>MusketRound</BlueprintID>
-    <Name>musket round</Name>
+    <Name>Musketenkugel</Name>
     <Difficulty>8</Difficulty>
   </Item>
   <Item>
     <BlueprintID>AmmoPouch</BlueprintID>
-    <Name>ammo pouch</Name>
+    <Name>Patronentasche</Name>
     <Difficulty>8</Difficulty>
   </Item>
 
   <Item>
     <BlueprintID>Pistol</BlueprintID>
-    <Name>flintlock pistol</Name>
+    <Name>Steinschlosspistole</Name>
     <Difficulty>9</Difficulty>
   </Item>
   <Item>
     <BlueprintID>Pump</BlueprintID>
-    <Name>pump</Name>
+    <Name>Pumpe</Name>
     <Difficulty>9</Difficulty>
   </Item>
 
   <Item>
     <BlueprintID>Cylinder</BlueprintID>
-    <Name>cylinder</Name>
+    <Name>Zylinder</Name>
     <Difficulty>10</Difficulty>
   </Item>
   <Item>
     <BlueprintID>SteamEngine</BlueprintID>
-    <Name>steam engine</Name>
+    <Name>Dampfmotor</Name>
     <Difficulty>10</Difficulty>
   </Item>
 
   <Item>
     <BlueprintID>ArtificialArm</BlueprintID>
-    <Name>prosthetic arm</Name>
+    <Name>Armprothese</Name>
     <Difficulty>11</Difficulty>
   </Item>
   <Item>
     <BlueprintID>ArtificialHand</BlueprintID>
-    <Name>prosthetic hand</Name>
+    <Name>Handprothese</Name>
     <Difficulty>11</Difficulty>
   </Item>
   <Item>
     <BlueprintID>ArtificialLeg</BlueprintID>
-    <Name>prosthetic leg</Name>
+    <Name>Beinprothese</Name>
     <Difficulty>11</Difficulty>
   </Item>
   <Item>
     <BlueprintID>ArtificialFoot</BlueprintID>
-    <Name>prosthetic foot</Name>
+    <Name>Fussprothese</Name>
     <Difficulty>11</Difficulty>
   </Item>
 
   <Item>
     <BlueprintID>Automaton</BlueprintID>
-    <Name>automaton</Name>
+    <Name>Automat</Name>
     <Difficulty>12</Difficulty>
   </Item>
 </Blueprints>
