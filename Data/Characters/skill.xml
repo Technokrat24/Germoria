@@ -22,8 +22,8 @@
   </Item>
   <Item>
     <ID>Woodcutting</ID>
-    <Name>Holzfällen</Name>
-    <Title>Holzfäller</Title>
+    <Name>Holzfaellen</Name>
+    <Title>Holzfaeller</Title>
   </Item>
   <Item>
     <ID>Carpentry</ID>
@@ -37,7 +37,7 @@
   </Item>
   <Item>
     <ID>Smelting</ID>
-    <Name>Verhütten</Name>
+    <Name>Verhuetten</Name>
     <Title>Schmelzer</Title>
   </Item>
   <Item>
@@ -57,8 +57,8 @@
   </Item>
   <Item>
     <ID>ArmorCrafting</ID>
-    <Name>Rüstungsproduktion</Name>
-    <Title>Rüstungsschmied</Title>
+    <Name>Ruestungsproduktion</Name>
+    <Title>Ruestungsschmied</Title>
   </Item>
   <Item>
     <ID>Gemcutting</ID>
@@ -82,13 +82,13 @@
   </Item>
   <Item>
     <ID>Pottery</ID>
-    <Name>Töpfern</Name>
-    <Title>Töpfer</Title>
+    <Name>Toepfern</Name>
+    <Title>Toepfer</Title>
   </Item>
   <Item>
     <ID>Leatherworking</ID>
-    <Name>Kürschnern</Name>
-    <Title>Kürschner</Title>
+    <Name>Kuerschnern</Name>
+    <Title>Kuerschner</Title>
   </Item>
   <Item>
     <ID>Tinkering</ID>
@@ -113,7 +113,7 @@
   <Item>
     <ID>AnimalHusbandry</ID>
     <Name>Tierzucht</Name>
-    <Title>Tierzüchter</Title>
+    <Title>Tierzuechter</Title>
   </Item>
   <Item>
     <ID>Butchery</ID>
@@ -123,7 +123,7 @@
   <Item>
     <ID>Horticulture</ID>
     <Name>Gartenbau</Name>
-    <Title>Gärtner</Title>
+    <Title>Gaertner</Title>
   </Item>
   <Item>
     <ID>Farming</ID>
@@ -153,27 +153,27 @@
   <Item>
     <ID>NaturalAttack</ID>
     <Name>Kampf</Name>
-    <Title>Kämpfer</Title>
+    <Title>Kaempfer</Title>
   </Item>
   <Item>
     <ID>Brawling</ID>
     <Name>Faustkampf</Name>
-    <Title>Faustkämpfer</Title>
+    <Title>Faustkaempfer</Title>
   </Item>
   <Item>
     <ID>Sword</ID>
     <Name>Schwert</Name>
-    <Title>Schwertkämpfer</Title>
+    <Title>Schwertkaempfer</Title>
   </Item>
   <Item>
     <ID>Axe</ID>
     <Name>Axt</Name>
-    <Title>Axtkämpfer</Title>
+    <Title>Axtkaempfer</Title>
   </Item>
   <Item>
     <ID>Hammer</ID>
     <Name>Hammer</Name>
-    <Title>Hammerkämpfer</Title>
+    <Title>Hammerkaempfer</Title>
   </Item>
   <Item>
     <ID>Dodge</ID>
@@ -183,11 +183,11 @@
   <Item>
     <ID>Shield</ID>
     <Name>Schild</Name>
-    <Title>Schildträger</Title>
+    <Title>Schildtraeger</Title>
   </Item>
   <Item>
     <ID>Armor</ID>
-    <Name>Rüstung</Name>
+    <Name>Ruestung</Name>
     <Title>Ritter</Title>
   </Item>
   <Item>
@@ -198,17 +198,17 @@
   <Item>
     <ID>Crossbow</ID>
     <Name>Armbrust</Name>
-    <Title>Armbrustschütze</Title>
+    <Title>Armbrustschuetze</Title>
   </Item>
   <Item>
     <ID>Gun</ID>
     <Name>Gewehr</Name>
-    <Title>Gewehrschütze</Title>
+    <Title>Gewehrschuetze</Title>
   </Item>
   <Item>
     <ID>Medic</ID>
     <Name>Feldschern</Name>
-    <Title>Sanitäter</Title>
+    <Title>Sanitaeter</Title>
   </Item>
   <Item>
     <ID>Caretaking</ID>
