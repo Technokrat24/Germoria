@@ -5,19 +5,19 @@
       SkillID: Skill IDs that make up this group.
   -->
   <MenuItem>
-    <Text>Pierre</Text>
+    <Text>Stein</Text>
     <SkillID>Mining</SkillID>
     <SkillID>Masonry</SkillID>
     <SkillID>Stonecarving</SkillID>
   </MenuItem>
   <MenuItem>
-    <Text>Bois</Text>
+    <Text>Holz</Text>
     <SkillID>Woodcutting</SkillID>
     <SkillID>Carpentry</SkillID>
     <SkillID>Woodcarving</SkillID>
   </MenuItem>
   <MenuItem>
-    <Text>Metaux</Text>
+    <Text>Metall</Text>
     <SkillID>Smelting</SkillID>
     <SkillID>Blacksmithing</SkillID>
     <SkillID>Metalworking</SkillID>
@@ -25,48 +25,48 @@
     <SkillID>ArmorCrafting</SkillID>
   </MenuItem>
   <MenuItem>
-    <Text>Gemmes</Text>
+    <Text>Edelsteine</Text>
     <SkillID>Gemcutting</SkillID>
     <SkillID>JewelryMaking</SkillID>
   </MenuItem>
   <MenuItem>
-    <Text>Vetements</Text>
+    <Text>Textilien</Text>
     <SkillID>Weaving</SkillID>
     <SkillID>Tailoring</SkillID>
   </MenuItem>
   <MenuItem>
-    <Text>Fabrications Diverses</Text>
+    <Text>Verschiedenes Handwerk</Text>
     <SkillID>Pottery</SkillID>
     <SkillID>Leatherworking</SkillID>
     <SkillID>Bonecarving</SkillID>
     <SkillID>Prospecting</SkillID>
   </MenuItem>
   <MenuItem>
-    <Text>Ingenierie</Text>
+    <Text>Ingenineurswesen</Text>
     <SkillID>Tinkering</SkillID>
     <SkillID>Machining</SkillID>
     <SkillID>Engineering</SkillID>
     <SkillID>Mechanic</SkillID>
   </MenuItem>
   <MenuItem>
-    <Text>Elevage</Text>
+    <Text>Tierhaltung</Text>
     <SkillID>AnimalHusbandry</SkillID>
     <SkillID>Butchery</SkillID>
   </MenuItem>
   <MenuItem>
-    <Text>Agriculture</Text>
+    <Text>Landwirtschaft</Text>
     <SkillID>Horticulture</SkillID>
     <SkillID>Farming</SkillID>
     <SkillID>Cooking</SkillID>
     <SkillID>Brewing</SkillID>
   </MenuItem>
   <MenuItem>
-    <Text>Medecine</Text>
+    <Text>Medizin</Text>
     <SkillID>Medic</SkillID>
     <SkillID>Caretaking</SkillID>
   </MenuItem>
   <MenuItem>
-    <Text>Autre</Text>
+    <Text>Sonstige</Text>
     <SkillID>Construction</SkillID>
     <SkillID>Hauling</SkillID>
   </MenuItem>
