@@ -14,7 +14,7 @@
   -->
   <Item>
     <ID>Air</ID>
-    <Name>air</Name>
+    <Name>Luft</Name>
     <Type>Air</Type>
     <Color>0 0 0 128</Color>
     <Value>0</Value>
@@ -22,7 +22,7 @@
   </Item>
   <Item>
     <ID>Grass</ID>
-    <Name>grass</Name>
+    <Name>Gras</Name>
     <Type>Plant</Type>
     <Value>0</Value>
     <Strength>0</Strength>
@@ -43,7 +43,7 @@
     </Heat>
     <Sustains>225</Sustains>
     <ID>Dirt</ID>
-    <Name>Boue</Name>
+    <Name>Erde</Name>
     <Type>Soil</Type>
     <Color>171 125 35 255</Color>
     <Value>0</Value>
@@ -65,7 +65,7 @@
     </Heat>
     <Sustains>225</Sustains>
     <ID>Clay</ID>
-    <Name>Argile</Name>
+    <Name>Lehm</Name>
     <Type>Soil</Type>
     <Color>144 88 78 255</Color>
     <Value>1</Value>
@@ -87,7 +87,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Granite</ID>
-    <Name>granite</Name>
+    <Name>Granit</Name>
     <Type>Stone</Type>
     <Color>128 128 128 255</Color>
     <Value>1</Value>
@@ -109,7 +109,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Basalt</ID>
-    <Name>basalt</Name>
+    <Name>Basalt</Name>
     <Type>Stone</Type>
     <Color>64 64 64 255</Color>
     <Value>1</Value>
@@ -131,7 +131,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Marble</ID>
-    <Name>marble</Name>
+    <Name>Marmor</Name>
     <Type>Stone</Type>
     <Color>255 255 255 255</Color>
     <Value>1</Value>
@@ -153,7 +153,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Sandstone</ID>
-    <Name>sandstone</Name>
+    <Name>Sandstein</Name>
     <Type>Stone</Type>
     <Color>192 118 67 255</Color>
     <Value>1</Value>
@@ -175,7 +175,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Bauxite</ID>
-    <Name>bauxite</Name>
+    <Name>Bauxit</Name>
     <Type>Stone</Type>
     <Color>127 63 63 255</Color>
     <Value>1</Value>
@@ -197,7 +197,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Serpentine</ID>
-    <Name>serpentine</Name>
+    <Name>Serpentin</Name>
     <Type>Stone</Type>
     <Color>137 168 106 255</Color>
     <Value>1</Value>
@@ -219,7 +219,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>LapisLazuli</ID>
-    <Name>lapis lazuli</Name>
+    <Name>Lapis Lazuli</Name>
     <Type>Stone</Type>
     <Color>75 93 255 255</Color>
     <Value>1</Value>
@@ -241,7 +241,7 @@
     </Heat>
     <Sustains>950</Sustains>
     <ID>Obsidian</ID>
-    <Name>obsidian</Name>
+    <Name>Obsidian</Name>
     <Type>Stone</Type>
     <Color>16 16 16 255</Color>
     <Value>5</Value>
@@ -263,7 +263,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Brick</ID>
-    <Name>brick</Name>
+    <Name>Ziegel</Name>
     <Type>Stone</Type>
     <Color>124 32 32 255</Color>
     <Value>1</Value>
@@ -271,7 +271,7 @@
   </Item>
   <Item>
     <ID>Water</ID>
-    <Name>water</Name>
+    <Name>Wasser</Name>
     <Type>Liquid</Type>
     <Color>0 0 255 128</Color>
     <Value>0</Value>
@@ -279,7 +279,7 @@
   </Item>
   <Item>
     <ID>Lava</ID>
-    <Name>lava</Name>
+    <Name>Lava</Name>
     <Type>Liquid</Type>
     <Color>255 90 0 255</Color>
     <Value>0</Value>
@@ -301,7 +301,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Pine</ID>
-    <Name>pine</Name>
+    <Name>Kiefer</Name>
     <Type>Wood</Type>
     <Color>199 134 54 255</Color>
     <Value>1</Value>
@@ -323,7 +323,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>AppleWood</ID>
-    <Name>apple wood</Name>
+    <Name>Apfelholz</Name>
     <Type>Wood</Type>
     <Color>199 101 54 255</Color>
     <Value>1</Value>
@@ -345,7 +345,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Birch</ID>
-    <Name>birch</Name>
+    <Name>Birke</Name>
     <Type>Wood</Type>
     <Color>242 210 105 255</Color>
     <Value>1</Value>
@@ -353,7 +353,7 @@
   </Item>
   <Item>
     <ID>Coal</ID>
-    <Name>coal</Name>
+    <Name>Kohle</Name>
     <Type>Coal</Type>
     <Color>64 64 64 255</Color>
     <Value>1</Value>
@@ -375,7 +375,7 @@
     </Heat>
     <Sustains>950</Sustains>
     <ID>Copper</ID>
-    <Name>copper</Name>
+    <Name>Kupfer</Name>
     <Type>Metal</Type>
     <Color>214 74 0 255</Color>
     <Value>2</Value>
@@ -397,7 +397,7 @@
     </Heat>
     <Sustains>950</Sustains>
     <ID>Malachite</ID>
-    <Name>malachite</Name>
+    <Name>Malachit</Name>
     <Type>Metal</Type>
     <Color>28 140 70 255</Color>
     <Value>2</Value>
@@ -419,7 +419,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Tin</ID>
-    <Name>tin</Name>
+    <Name>Zinn</Name>
     <Type>Metal</Type>
     <Color>127 127 127 255</Color>
     <Value>2</Value>
@@ -441,7 +441,7 @@
     </Heat>
     <Sustains>1800</Sustains>
     <ID>Bronze</ID>
-    <Name>bronze</Name>
+    <Name>Bronze</Name>
     <Type>Metal</Type>
     <Color>166 125 61 255</Color>
     <!--Should be 4 value but since bronze is a converted material we have to account for deleting components
@@ -466,7 +466,7 @@
     </Heat>
     <Sustains>3200</Sustains>
     <ID>Iron</ID>
-    <Name>iron</Name>
+    <Name>Eisen</Name>
     <Type>Metal</Type>
     <Color>76 76 76 255</Color>
     <Value>8</Value>
@@ -488,7 +488,7 @@
     </Heat>
     <Sustains>4800</Sustains>
     <ID>Steel</ID>
-    <Name>steel</Name>
+    <Name>Stahl</Name>
     <Type>Metal</Type>
     <Color>70 130 180 255</Color>
     <!--Should be 16 value but since steel is a converted material we have to account for deleting components
@@ -514,7 +514,7 @@
     </Heat>
     <Sustains>3200</Sustains>
     <ID>Lead</ID>
-    <Name>lead</Name>
+    <Name>Blei</Name>
     <Type>Metal</Type>
     <Color>118 136 143 255</Color>
     <Value>8</Value>
@@ -539,7 +539,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Silver</ID>
-    <Name>silver</Name>
+    <Name>Silber</Name>
     <Type>Metal</Type>
     <Color>192 192 192 255</Color>
     <Value>6</Value>
@@ -561,7 +561,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Gold</ID>
-    <Name>gold</Name>
+    <Name>Gold</Name>
     <Type>Metal</Type>
     <Color>255 215 0 255</Color>
     <Value>12</Value>
@@ -583,7 +583,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>RoseGold</ID>
-    <Name>rose gold</Name>
+    <Name>Rotgold</Name>
     <Type>Metal</Type>
     <Color>183 110 121 255</Color>
     <!--Should be 100 value but since rose gold is a converted material we have to account for deleting components
@@ -608,7 +608,7 @@
     </Heat>
     <Sustains>425</Sustains>
     <ID>Platinum</ID>
-    <Name>platinum</Name>
+    <Name>Platin</Name>
     <Type>Metal</Type>
     <Color>229 228 226 255</Color>
     <Value>24</Value>
@@ -616,7 +616,7 @@
   </Item>
   <Item>
     <ID>Emerald</ID>
-    <Name>emerald</Name>
+    <Name>Smaragd</Name>
     <Type>Gem</Type>
     <Color>25 233 25 255</Color>
     <Value>16</Value>
@@ -624,7 +624,7 @@
   </Item>
   <Item>
     <ID>Sapphire</ID>
-    <Name>sapphire</Name>
+    <Name>Saphir</Name>
     <Type>Gem</Type>
     <Color>25 25 233 255</Color>
     <Value>16</Value>
@@ -632,14 +632,14 @@
   </Item>
   <Item>
     <ID>Strawberry</ID>
-    <Name>strawberry</Name>
+    <Name>Erdbeere</Name>
     <Type>Plant</Type>
     <Value>1</Value>
     <Strength>0.1</Strength>
   </Item>
   <Item>
     <ID>Apple</ID>
-    <Name>apple</Name>
+    <Name>Apfel</Name>
     <Type>Plant</Type>
     <Value>1</Value>
     <Strength>0.1</Strength>
