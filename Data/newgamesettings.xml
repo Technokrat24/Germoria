@@ -57,7 +57,7 @@
   -->
   <EnemyRaceOptions>
     <EnemyRaceIDGroup>
-      <Name>Animaux sauvages</Name>
+      <Name>Wildtiere</Name>
       <RaceID>HoneyBadger</RaceID>
       <RaceID>MonitorLizard</RaceID>
       <RaceID>Bear</RaceID>
@@ -81,35 +81,35 @@
       <RaceID>Zombie</RaceID>
     </EnemyRaceIDGroup>
     <EnemyRaceIDGroup>
-      <Name>Squelettes</Name>
+      <Name>Skelette</Name>
       <RaceID>Skeleton</RaceID>
     </EnemyRaceIDGroup>
     <EnemyRaceIDGroup>
-      <Name>Coleopteres</Name>
+      <Name>Kaefer</Name>
       <RaceID>Beetle</RaceID>
       <RaceID>BeetleCocoon</RaceID>
     </EnemyRaceIDGroup>
     <EnemyRaceIDGroup>
-      <Name>Araignées</Name>
+      <Name>Spinnen</Name>
       <RaceID>Spider</RaceID>
     </EnemyRaceIDGroup>
   </EnemyRaceOptions>
   <Profession>
-    <Name>Mineur</Name>
+    <Name>Bergarbeiter</Name>
     <Skill>Mining</Skill>
     <Skill>Masonry</Skill>
     <Skill>Stonecarving</Skill>
     <Skill>Hauling</Skill>
   </Profession>
   <Profession>
-    <Name>Bucheron</Name>
+    <Name>Holzfäller</Name>
     <Skill>Woodcutting</Skill>
     <Skill>Carpentry</Skill>
     <Skill>Woodcarving</Skill>
     <Skill>Hauling</Skill>
   </Profession>
   <Profession>
-    <Name>Agriculteur</Name>
+    <Name>Landwirt</Name>
     <Skill>Farming</Skill>
     <Skill>Horticulture</Skill>
     <Skill>Brewing</Skill>
@@ -119,7 +119,7 @@
     <Skill>Hauling</Skill>
   </Profession>
   <Profession>
-    <Name>Rancher</Name>
+    <Name>Viehzuechter</Name>
     <Skill>AnimalHusbandry</Skill>
     <Skill>Butchery</Skill>
     <Skill>Cooking</Skill>
@@ -127,12 +127,12 @@
     <Skill>Hauling</Skill>
   </Profession>
   <Profession>
-    <Name>Constructeur</Name>
+    <Name>Konstrukteur</Name>
     <Skill>Construction</Skill>
     <Skill>Hauling</Skill>
   </Profession>
   <Profession>
-    <Name>Forgeron</Name>
+    <Name>Schmied</Name>
     <Skill>Smelting</Skill>
     <Skill>Blacksmithing</Skill>
     <Skill>Metalworking</Skill>
@@ -141,7 +141,7 @@
     <Skill>Hauling</Skill>
   </Profession>
   <Profession>
-    <Name>Ingénieur</Name>
+    <Name>Ingenieur</Name>
     <Skill>Engineering</Skill>
     <Skill>Machining</Skill>
     <Skill>Mechanic</Skill>
@@ -149,7 +149,7 @@
     <Skill>Hauling</Skill>
   </Profession>
   <Profession>
-    <Name>Bijoutier</Name>
+    <Name>Juwelier</Name>
     <Skill>Gemcutting</Skill>
     <Skill>JewelryMaking</Skill>
     <Skill>Hauling</Skill>
