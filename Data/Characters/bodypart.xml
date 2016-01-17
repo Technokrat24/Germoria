@@ -50,21 +50,21 @@
   -->
   <Item>
     <ID>GnomeUpperBody</ID>
-    <Name>haut du corps</Name>
+    <Name>Oberkoerper</Name>
     <MaterialID>StandardSkin</MaterialID>
     <BodyProperties>HasBlood</BodyProperties>
     <Contains>
-      <Name>cotes</Name>
+      <Name>Bewertung</Name>
       <MaterialID>StandardBone</MaterialID>
       <BodyProperties>Splinters</BodyProperties>
       <Contains>
-        <Name>poumon</Name>
+        <Name>Lunge</Name>
         <MaterialID>StandardWeakFlesh</MaterialID>
         <BodyFunction>Breathe</BodyFunction>
         <Symmetrical>true</Symmetrical>
       </Contains>
       <Contains>
-        <Name>coeur</Name>
+        <Name>Herz</Name>
         <MaterialID>StandardWeakFlesh</MaterialID>
         <BodyFunction>Circulation</BodyFunction>
         <ToHitWeight>0.5</ToHitWeight>
@@ -73,34 +73,34 @@
   </Item>
   <Item>
     <ID>GnomeLowerBody</ID>
-    <Name>bas du corps</Name>
+    <Name>Unterkoerper</Name>
     <MaterialID>StandardSkin</MaterialID>
     <BodyProperties>HasBlood</BodyProperties>
     <Contains>
-      <Name>muscles abdominaux</Name>
+      <Name>Bauchmuskeln</Name>
       <MaterialID>StandardStrongFlesh</MaterialID>
       <BodyProperties>HasBlood, HasArtery</BodyProperties>
       <Contains>
-        <Name>intestins</Name>
+        <Name>Gedaerme</Name>
         <MaterialID>StandardWeakFlesh</MaterialID>
         <BodyFunction>InternalOrgan</BodyFunction>
-        <BodyProperties>HasBlood, HasArtery, Nauseates</BodyProperties>
+        <BodyProperties>HasBlood, HasArtery, Uebelkeit</BodyProperties>
       </Contains>
     </Contains>
   </Item>
   <Item>
     <ID>GnomeHead</ID>
-    <Name>tete</Name>
+    <Name>Kopf</Name>
     <MaterialID>StandardSkin</MaterialID>
     <BodyProperties>HasBlood</BodyProperties>
     <Contains>
-      <Name>crane</Name>
+      <Name>Schaedel</Name>
       <MaterialID>StandardShell</MaterialID>
       <BodyFunction>Structure</BodyFunction>
       <HarvestedItem>Skull</HarvestedItem>
       <HarvestedQuantity>1</HarvestedQuantity>
       <Contains>
-        <Name>cerveau</Name>
+        <Name>Gehirn</Name>
         <MaterialID>StandardWeakFlesh</MaterialID>
         <BodyFunction>Thought</BodyFunction>
       </Contains>
@@ -108,14 +108,14 @@
   </Item>
   <Item>
     <ID>GnomeEye</ID>
-    <Name>oeil</Name>
+    <Name>Auge</Name>
     <MaterialID>StandardWeakFlesh</MaterialID>
     <BodyFunction>Sight</BodyFunction>
     <Symmetrical>true</Symmetrical>
   </Item>
   <Item>
     <ID>GnomeMouth</ID>
-    <Name>bouche</Name>
+    <Name>Mund</Name>
     <MaterialID>StandardBone</MaterialID>
     <NaturalWeapon>
       <Name></Name>
@@ -137,30 +137,30 @@
   </Item>
   <Item>
     <ID>GnomeNeck</ID>
-    <Name>nez</Name>
+    <Name>Nacken</Name>
     <MaterialID>StandardSkin</MaterialID>
     <BodyProperties>HasBlood, HasArtery</BodyProperties>
     <Contains>
-      <Name>gorge</Name>
+      <Name>Kehle</Name>
       <MaterialID>StandardWeakFlesh</MaterialID>
       <BodyFunction>Throat</BodyFunction>
     </Contains>
   </Item>
   <Item>
     <ID>GnomeArm</ID>
-    <Name>bras</Name>
+    <Name>Arm</Name>
     <MaterialID>StandardSkin</MaterialID>
     <BodyProperties>HasBlood</BodyProperties>
     <Symmetrical>true</Symmetrical>
     <Contains>
-      <Name>muscle</Name>
+      <Name>Muskel</Name>
       <MaterialID>StandardStrongFlesh</MaterialID>
       <BodyFunction>Motor</BodyFunction>
       <BodyProperties>HasBlood, HasArtery</BodyProperties>
       <HarvestedItem>Meat</HarvestedItem>
       <HarvestedQuantity>1</HarvestedQuantity>
       <Contains>
-        <Name>os</Name>
+        <Name>Knochen</Name>
         <MaterialID>StandardBone</MaterialID>
         <BodyFunction>Structure</BodyFunction>
       </Contains>
@@ -168,19 +168,19 @@
   </Item>
   <Item>
     <ID>GnomeLeg</ID>
-    <Name>jambe</Name>
+    <Name>Bein</Name>
     <MaterialID>StandardSkin</MaterialID>
     <BodyProperties>HasBlood</BodyProperties>
     <Symmetrical>true</Symmetrical>
     <Contains>
-      <Name>muscle</Name>
+      <Name>Muskel</Name>
       <MaterialID>StandardStrongFlesh</MaterialID>
       <BodyFunction>Motor</BodyFunction>
       <BodyProperties>HasBlood, HasArtery</BodyProperties>
       <HarvestedItem>Meat</HarvestedItem>
       <HarvestedQuantity>1</HarvestedQuantity>
       <Contains>
-        <Name>os</Name>
+        <Name>Knochen</Name>
         <MaterialID>StandardBone</MaterialID>
         <BodyFunction>Structure</BodyFunction>
       </Contains>
@@ -188,16 +188,16 @@
   </Item>
   <Item>
     <ID>GnomeHand</ID>
-    <Name>main</Name>
+    <Name>Hand</Name>
     <MaterialID>StandardSkin</MaterialID>
     <BodyProperties>HasBlood</BodyProperties>
     <Contains>
-      <Name>os</Name>
+      <Name>Knochen</Name>
       <MaterialID>StandardBone</MaterialID>
       <BodyFunction>Structure</BodyFunction>
       <BodyProperties>Splinters</BodyProperties>
       <Contains>
-        <Name>muscle</Name>
+        <Name>Muskel</Name>
         <MaterialID>StandardStrongFlesh</MaterialID>
         <BodyFunction>Grip</BodyFunction>
         <BodyProperties>HasBlood</BodyProperties>
@@ -220,16 +220,16 @@
   </Item>
   <Item>
     <ID>GnomeFoot</ID>
-    <Name>pied</Name>
+    <Name>Fuss</Name>
     <MaterialID>StandardSkin</MaterialID>
     <BodyProperties>HasBlood</BodyProperties>
     <Contains>
-      <Name>os</Name>
+      <Name>Knochen</Name>
       <MaterialID>StandardBone</MaterialID>
       <BodyFunction>Structure</BodyFunction>
       <BodyProperties>Splinters</BodyProperties>
       <Contains>
-        <Name>muscle</Name>
+        <Name>Muskel</Name>
         <MaterialID>StandardStrongFlesh</MaterialID>
         <BodyFunction>Stand</BodyFunction>
         <BodyProperties>HasBlood</BodyProperties>
@@ -839,7 +839,7 @@
     <HarvestedItem>RawHide</HarvestedItem>
     <HarvestedQuantity>2</HarvestedQuantity>
     <Contains>
-      <Name>cotes</Name>
+      <Name>Bewertung</Name>
       <MaterialID>MonitorLizardBone</MaterialID>
       <BodyProperties>Splinters</BodyProperties>
       <HarvestedItem>Bone</HarvestedItem>
@@ -2495,3 +2495,4 @@
     </NaturalWeapon>
   </Item>
 </BodyParts>
+
